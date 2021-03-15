@@ -3,7 +3,9 @@
 
 ### Hi there, am Mwangi Kibui 👋
 
-I am a fullstack JavaScript software developer based in Kenya. 
+I am a fullstack JavaScript software developer based in Kenya.
+
+If you love my content, you can always [buy me coffee](https://www.buymeacoffee.com/itsmkibui).
 
 - 🔭 I’m currently working on ... Edu-yt. A learning program for Kenyan highschool students.
 - 🌱 I’m currently learning ... [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), [PostgreSQL](https://www.postgresql.org/)
