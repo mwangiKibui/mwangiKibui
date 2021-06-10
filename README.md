@@ -7,7 +7,7 @@ I am a fullstack JavaScript software developer based in Kenya.
 
 If you love my content, you can always [buy me coffee](https://www.buymeacoffee.com/itsmkibui).
 
-- 🔭 I’m currently working on ... Edu-yt. A learning program for Kenyan highschool students.
+- 🔭 I’m currently working on ... AC. An ad agency for small scale retailers.
 - 🌱 I’m currently learning ... [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), [PostgreSQL](https://www.postgresql.org/)
 - 👯 I’m looking to collaborate on ... [section](https://github.com/section-engineering-education/engineering-education)
 - 🤔 I’m looking for help with ... [Docker](https://www.docker.com/).
