@@ -3,7 +3,7 @@
 
 ### Hi there, am Mwangi Kibui 👋
 
-I am a fullstack JavaScript software developer based in Kenya currently working @chamasoft.
+I am a web/mobile software developer based in Kenya currently working @chamasoft and writing technical articles [@section](https://github.com/section-engineering-education/engineering-education).
 
 If you love my content, you can always [buy me coffee](https://www.buymeacoffee.com/itsmkibui).
 
